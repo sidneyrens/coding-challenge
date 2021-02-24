@@ -1,66 +1,44 @@
+//
+// This is only a SKELETON file for the 'Simple Linked List' exercise. It's been provided as a
+// convenience to get you started writing code faster.
+//
+
 export class Element {
-  constructor(element) {
-    this.element = element;
-    this._next = null;
+  constructor() {
+    throw new Error("Remove this statement and implement this function");
   }
 
   get value() {
-    return this.element;
+    throw new Error("Remove this statement and implement this function");
   }
 
   get next() {
-    return this._next;
-  }
-
-  set next(nextElement) {
-    this._next = nextElement;
-  }
-
-  set value(element) {
-    this.element = element;
+    throw new Error("Remove this statement and implement this function");
   }
 }
 
 export class List {
-  constructor(array) {
-    this._head = null;
-    if (array) {
-      array.forEach((el) => this.add(new Element(el)));
-    }
+  constructor() {
+    throw new Error("Remove this statement and implement this function");
   }
 
-  add(element) {
-    if (this._head === null) {
-      this._head = element;
-    } else {
-      element.next = this._head;
-      this._head = element;
-    }
+  add(nextValue) {
+    throw new Error("Remove this statement and implement this function");
   }
 
   get length() {
-    return this.toArray().length;
+    throw new Error("Remove this statement and implement this function");
   }
 
   get head() {
-    return this._head;
+    throw new Error("Remove this statement and implement this function");
   }
 
   toArray() {
-    const arr = [];
-    let head = this._head;
-
-    while (head !== null) {
-      arr.push(head.value);
-      head = head.next;
-    }
-    return arr;
+    throw new Error("Remove this statement and implement this function");
   }
 
   reverse() {
-    const reversed = this.toArray();
-    this._head = null;
-    let newList = new List(reversed);
-    return newList;
+    throw new Error("Remove this statement and implement this function");
   }
 }

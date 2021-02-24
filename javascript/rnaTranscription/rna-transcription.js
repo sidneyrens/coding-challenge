@@ -3,15 +3,6 @@
 // convenience to get you started writing code faster.
 //
 
-export const toRna = (dna) => {
-  let rna = "";
-  dna.split("").forEach((n) => (rna += DNA[n]));
-  return rna;
-};
-
-const DNA = {
-  G: "C",
-  C: "G",
-  T: "A",
-  A: "U",
+export const toRna = () => {
+  throw new Error("Remove this statement and implement this function");
 };
