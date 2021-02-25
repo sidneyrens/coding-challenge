@@ -21,12 +21,6 @@ and provide functions to reverse a linked list and convert to and from arrays.
 When implementing this in a language with built-in linked lists,
 implement your own abstract data type.
 
-## Hints
-
-To support `list()`, see [implementing an iterator for a class.](https://docs.python.org/3/tutorial/classes.html#iterators)
-
-Additionally, note that Python2's `next()` has been replaced by `__next__()` in Python3. For dual compatibility, `next()` can be implemented as:
-
 [Link to linked list tutorial](https://www.youtube.com/watch?v=ChWWEncl76Y&t=242s)
 [Another link](https://www.youtube.com/watch?v=WwfhLC16bis)
 
