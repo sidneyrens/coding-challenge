@@ -4,7 +4,7 @@ Select the directory for the language you wish to use, JavaScript or Python. Cha
 
 Each challenge has its own test suite to check your work. The goal is to complete as many as you can and whoever gets the most done within the coding challenge time slot will be the winner and recieve extra engage points.
 
-The challenges `rnaTranscription` and `[something else]` are the two 'easy' challenges. You can start with those two if you'd like, all the rest are about the same difficulty level.
+The challenges `rnaTranscription`,`hamming` and `spaceAge` are the 'easy' challenges. You can start with those if you'd like, all the rest are about the same difficulty level.
 
 All challenges were pulled from the site exercism.io [https://exercism.io](https://exercism.io)
 
