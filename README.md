@@ -23,10 +23,10 @@ Once you get a test passing, you can enable the next one by changing `xtest` to
 
 ## Running the tests - Python
 
-To run the tests, run `pytest binary_search_tree_test.py`
+To run the tests, run `pytest [py_test_file]`
 
 Alternatively, you can tell Python to run the pytest module:
-`python -m pytest binary_search_tree_test.py`
+`python -m pytest [py_test_file]`
 
 ### Common `pytest` options
 
