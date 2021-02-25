@@ -1,6 +1,6 @@
 # coding-challenge
 
-Select the directory for the language you wish to use, JavaScript or Python. Challenges are the same for both languages. Within your prefered languages directory you will see 6 nested directories, one for each challenge. Each challenge has it's own README.md that explains what is expected for the specific challenge.
+Select the directory for the language you wish to use, JavaScript or Python. Challenges are the same for both languages. Within your prefered languages directory you will see 7 nested directories, one for each challenge. Each challenge has it's own README.md that explains what is expected for the specific challenge.
 
 Each challenge has its own test suite to check your work. The goal is to complete as many as you can and whoever gets the most done within the coding challenge time slot will be the winner and recieve extra engage points.
 
