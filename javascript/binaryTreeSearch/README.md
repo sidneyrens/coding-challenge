@@ -53,6 +53,8 @@ And if we then added 1, 5, and 7, it would look like this
      / \     / \
     1   3   5   7
 
+[Link to binary search tree tutorial](https://www.youtube.com/watch?v=5cU1ILGy6dM)
+
 ## Making the test suite pass
 
 Execute the tests with:

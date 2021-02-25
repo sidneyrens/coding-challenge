@@ -21,6 +21,9 @@ and provide functions to reverse a linked list and convert to and from arrays.
 When implementing this in a language with built-in linked lists,
 implement your own abstract data type.
 
+[Link to linked list tutorial](https://www.youtube.com/watch?v=ChWWEncl76Y&t=242s)
+[Another link](https://www.youtube.com/watch?v=WwfhLC16bis)
+
 ## Making the test suite pass
 
 Execute the tests with:
